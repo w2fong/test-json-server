@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello mock json server"
+    }
+  ],
+  "profile": {
+    "name": "typicode test"
+  }
+} 
