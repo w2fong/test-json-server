@@ -7,4 +7,4 @@ Test mock json server.  This is a test GitHub integration with typicode.com.  Se
 - https://my-json-server.typicode.com/w2fong/test-json-server/comments
 - https://my-json-server.typicode.com/w2fong/test-json-server/comments/1
 - https://my-json-server.typicode.com/w2fong/test-json-server/comments/2
-- https://my-json-server.typicode.com/w2fong/test-json-server/mydata/moviewatched
+- https://my-json-server.typicode.com/w2fong/test-json-server/mydata
