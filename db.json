@@ -11,5 +11,9 @@
   ],  
   "profile": {
     "name": "typicode test"
+  },
+  "mydata": {
+    "moviewatched": 20,
+    "youtubewatched": 50
   }
 } 
